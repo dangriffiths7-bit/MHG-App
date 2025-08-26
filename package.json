@@ -1,6 +1,6 @@
 {
-  "name": "my-pwa",
-  "private": true,
+  "name": "MHG-App",
+  "private": false,
   "type": "module",
   "version": "1.0.0",
   "scripts": {
