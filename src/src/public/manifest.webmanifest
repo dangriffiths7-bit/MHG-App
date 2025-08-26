@@ -1,6 +1,6 @@
 {
-  "name": "MHG-APP",
-  "short_name": "MHG-APP",
+  "name": "MyPWA",
+  "short_name": "MyPWA",
   "description": "A minimal Vite Progressive Web App you can install on your phone.",
   "start_url": ".",
   "scope": ".",
